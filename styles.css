@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+body {
+  background: 
+    linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
+    url("https://cdn.shopify.com/s/files/1/1199/8502/files/oie_2716152JzzpfzCA.jpg?v=1643295784");
+  background-size: cover;
+  background-position: center;
+}
+#submit{
+	background-color:lightgoldenrodyellow;
+	font-size:20px;
+	border-radius: 50px; 
+}
